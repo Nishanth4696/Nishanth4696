@@ -62,19 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanth4696&show_icons=true&theme=tokyonight&locale=en" alt="nishanth4696" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth4696&theme=tokyonight" alt="nishanth4696" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishanth4696&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nishanth4696" width="40%" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
